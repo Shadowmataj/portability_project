@@ -14,19 +14,19 @@ export const Footer = () => {
             <nav>
                 <a href="">
                     <img
-                        src="../img/redes/facebook.png"
+                        src="../img/socialmedia/facebook.png"
                         alt="logo_facebook"
                     ></img>
                 </a>
                 <a href="">
                     <img
-                        src="../img/redes/instagram.png"
+                        src="../img/socialmedia/instagram.png"
                         alt="logo_instagram"
                     ></img>
                 </a>
                 <a href="">
                     <img
-                        src="../img/redes/youtube.png"
+                        src="../img/socialmedia/youtube.png"
                         alt="logo_youtube"
                     ></img>
                 </a>
